@@ -1,4 +1,4 @@
-Follow below steps to test math-skills.go
+# Follow below steps to test math-skills.go
 
 Download the 'math-skills' executable from root/public and give executable permissions.
 Open a terminal and run the executable. The executable will generate a data file (= data.txt), and print the correct program outputs in the console.
